@@ -19,8 +19,8 @@ The dataset used for this analysis includes the following variables:
 4. Changes in cardholder behaviour such as sudden change in spending habits or transaction frequency can indicate potential fraud.
 
 # Tools used
-Data Analysis (Microsoft Excel, SQL).
-Data Visualization (PowerBi).
+1. Data Cleaning and Analysis (Microsoft Excel, SQL)
+2. Data Visualization (PowerBi).
 
 # Recommendation
 1. Monitor cardholder behavior.
